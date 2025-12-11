@@ -8,7 +8,7 @@ This is a snake game using A* algorthim to find an efficient path
 
 ### Requirements
 
-- Python 3.13
+- Python 3
 - pygame
 
 ### Installation
